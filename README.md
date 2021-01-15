@@ -8,4 +8,5 @@ The second one is a classifier that only distinguishes between lungs with pneumo
 The notebooks were coded in FastAI.
 
 Check out my article on this project here: https://medium.com/@real.ewu4/detecting-pneumonia-with-99-5-accuracy-using-fastai-2de2157a9d2b
+<br/>
 Check out my video on this project: https://youtu.be/MVx3JqXB_yk
